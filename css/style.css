@@ -1,0 +1,19 @@
+/* Colore 1: Intestazioni (h1, h2, h3, ecc.) */
+h1, h2, h3, {
+    color: #FFBE0B; /* Blu  */
+}
+
+/* Colore 2: Paragrafi */
+p {
+    color: #FB5607; /* Grigio ardesia */
+}
+
+/* Colore 3: Enfasi e grassetto */
+em, strong {
+    color: #FF006E; /* Rosso mattone */
+}
+
+/* Colore 4: Liste ordinate e non ordinate (selettore di gruppo) */
+ol, ul {
+    color: #8338EC; /* Verde bosco */
+}
